@@ -1,0 +1,1 @@
+INSERT INTO burgers_db (buger_name)
